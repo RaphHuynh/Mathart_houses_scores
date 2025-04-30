@@ -1,0 +1,13 @@
+@import "tailwindcss";
+@import "./assets/Telma_Complete/Fonts/WEB/css/telma.css";
+@import "./assets/DancingScript_Complete/Fonts/WEB/css/dancing-script.css";
+
+/* Appliquer Telma-Bold aux titres */
+h1, h2 {
+  font-family: 'Telma-Bold', sans-serif;
+}
+
+/* Appliquer Dancing Script au reste du texte */
+body {
+  font-family: 'DancingScript-Regular', cursive;
+}
